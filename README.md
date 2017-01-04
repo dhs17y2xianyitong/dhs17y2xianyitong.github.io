@@ -10,8 +10,8 @@
 <h2> About </h2>
 <p> I am a 13 year old student from <a href="http://dunmanhigh.moe.edu.sg"> Dunman High </a>, Singapore.</p>
 <h2> Interests </h2>
-<p> I am interested in <a href="https://www.youtube.com/watch?v=hmE9f-TEutc"> BTS.</p>
+<p> I am interested in <a href="https://www.youtube.com/watch?v=hmE9f-TEutc"> BTS </a>.</p>
 <h2> Projects </h2>
-<p> I am participating in <a href="https://developers.google.com/open-source/gci/"> Google Code-in 2016 with <a href="http://fossasia.org"> Fossasia.
+<p> I am participating in <a href="https://developers.google.com/open-source/gci/"> Google Code-in 2016 </a> with <a href="http://fossasia.org"> FOSSASIA </a>.
 </body>
 </html>
